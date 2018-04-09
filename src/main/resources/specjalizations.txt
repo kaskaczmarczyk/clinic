@@ -1,0 +1,17 @@
+Specjalization_Id   Name
+1   Internista
+2   Laryngolog
+3   Dermatolog
+4   Pediatra
+5   Neurolog
+6   Okulista
+7   Ortopeda
+8   Alergolog
+9   Chirurg
+10  Nefrolog
+11  Urolog
+12  Kardiolog
+13  Reumatolog
+14  Onkolog
+15  Endokrynolog
+16  Ginekolog
